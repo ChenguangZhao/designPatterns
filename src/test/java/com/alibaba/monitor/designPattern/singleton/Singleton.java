@@ -12,7 +12,7 @@ public class Singleton {
     private String name;
 
     /**
-     * 私有构造方法，防止被实例化
+     * 将构造方法私有，防止被实例化
      **/
     private Singleton() {
     }
